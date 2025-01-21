@@ -1,4 +1,13 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+### Hi there 👋, I'm Dmitrii
+#### Graduate “Data Analyst”  at Practicum by Yandex (Yandex EdTech)
+At the moment, working in a space industry "Energia" as planning-engineer. Got retrained as a data analyst and actively looking for a job, concurrently doing some pet-projects to be better each day.
+
+Skills: Python / SQL / EDA / Excel/ Tableau
+
+- 🌱 I’m currently learning DataLens / Web scraping 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ionovd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/princess1over)  
+
+
 
